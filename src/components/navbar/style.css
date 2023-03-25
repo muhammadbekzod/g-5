@@ -1,0 +1,17 @@
+.navbarWapper {
+  display: flex;
+  border: 1px solid black;
+  height: 70px;
+}
+.nav-right {
+  flex: 1;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border: 1px solid black;
+  color: #b08ead;
+}
+.nav-left {
+  flex: 1;
+  border: 1px solid black;
+}
